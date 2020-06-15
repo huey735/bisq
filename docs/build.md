@@ -22,7 +22,7 @@ You do _not_ need to install Gradle to complete the following command. The `grad
     ./gradlew build
 
 If on Windows run `gradlew.bat build` instead.
-
+If in need to install JAVA check out - https://github.com/bisq-network/bisq/tree/master/scripts
 
 ## Run
 
